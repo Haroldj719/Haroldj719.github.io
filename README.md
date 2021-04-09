@@ -1,17 +1,8 @@
 ## Welcome to the Greenpoint Getdown - all things John. Below you will find my interests (primarily blogs / articles pertaining to important healthcare topics) incorporated into a website. Rather than just writing a blog, this website was created so I can also learn web design and coding. 
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# Header 1 - Reading
+## Header 2 - Blog Posts
+### Header 3 - Other
 
 - Bulleted
 - List
